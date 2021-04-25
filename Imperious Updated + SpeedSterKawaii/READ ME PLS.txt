@@ -1,0 +1,15 @@
+Hey, this is calamari aka Imperious Transpiler Updated.
+
+Heres a quick info:
+
+method: luau aka bytecode conversion
+kb size: about like 200 kb in dll
+
+Updated by SpeedSterKawaii
+Was updated for April of 2021.
+
+Some updates:
+Functions are added.
+I commneted so you can learn what to do.
+
+<3 no homo speedsterkawaii 
