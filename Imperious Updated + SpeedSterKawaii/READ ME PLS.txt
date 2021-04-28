@@ -2,7 +2,7 @@ Hey, this is calamari aka Imperious Transpiler Updated.
 
 Heres a quick info:
 
-method: luau aka bytecode conversion
+method: luau aka modded lua.
 kb size: about like 200 kb in dll
 
 Updated by SpeedSterKawaii
